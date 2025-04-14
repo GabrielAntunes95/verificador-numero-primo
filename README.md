@@ -5,12 +5,8 @@ Este é um simples projeto em Java para verificar se um número é primo ou não
 Clone o repositório:
 
 git clone https://github.com/GabrielAntunes95/verificador-numero-primo.git
-Compile o código: Se você estiver utilizando o Maven, basta rodar o comando:
 
-mvn clean install
 Execute o programa: Execute a classe principal para verificar se o número fornecido é primo.
-
-java -jar target/numeroprimo.jar
 
 🧑‍💻 Como Funciona
 A aplicação irá pedir um número inteiro e verificará se ele é primo ou não primo. O número é considerado primo se ele for maior que 1 e não for divisível por nenhum número além de 1 e ele mesmo.
